@@ -1,4 +1,5 @@
 Hi, I'm Ibrahim!
+
 I think I was drawn towards a career in tech because I am a huge fan of iterative processes and making things better. Seven years later, I still love improving things, whether it's web performance, team processes, or user experience. I am an engineering manager, a frequent user of the JavaScript dev tools, an occasional conference speaker, and a fan of a good diagram for explaining technical concepts to teammates and stakeholders.
 
 I am currently an Engineering Manager at Formidable.
