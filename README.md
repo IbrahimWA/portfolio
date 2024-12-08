@@ -8,4 +8,4 @@ Want to learn more?
 
 Prior to my career in Data analytics, I majored in web design and worked as a freelancer and private tutor. My current technical specialties include Excel, Power Bi, SQL, web performance, and data visualization. I have been one of the primary maintainers of Euro Mega's sales data mostly carried out using Excel. I am occasionally involved in participating in giving trainings that helps in building strong technical teams.
 
-For more information, view my resume or follow me on LinkIn!
+For more information, view my resume or follow me on LinkedIn!
